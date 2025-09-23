@@ -1,5 +1,5 @@
 {
   "gallery": true,
-  "links": false,
-  "comments": false
+  "links": true,
+  "comments": true
 }

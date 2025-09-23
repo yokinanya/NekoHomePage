@@ -51,82 +51,16 @@
       },
       "links": [
         {
-          "id": "example-friend-1",
-          "name": "示例朋友1",
-          "url": "https://example.com",
-          "avatar": "/assets/avatar.jpg",
+          "id": "RaitoOrange",
+          "name": "喵田弥夜Miya",
+          "url": "https://nyadamiya.com",
+          "avatar": "https://nyadamiya.com/img/miya_logo.png",
           "description": {
-            "zh": "这是一个示例友链描述",
-            "en": "This is an example friend link description",
-            "jp": "これは友達リンクの説明例です"
+            "zh": "喵田弥夜Miya的个人主页",
+            "en": "NyadaMiya's HomePages",
+            "jp": "NyadaMiyaのホームページ"
           },
-          "tags": ["tech", "blog"]
-        },
-        {
-          "id": "example-friend-2",
-          "name": "示例朋友2",
-          "url": "https://example2.com",
-          "avatar": "/assets/avatar.jpg",
-          "description": {
-            "zh": "另一个示例友链",
-            "en": "Another example friend link",
-            "jp": "もう一つの友達リンクの例"
-          },
-          "tags": ["design", "creative"]
-        }
-      ]
-    },
-    {
-      "id": "communities",
-      "name": {
-        "zh": "社区",
-        "en": "Communities",
-        "jp": "コミュニティ"
-      },
-      "description": {
-        "zh": "相关社区和组织",
-        "en": "Related communities and organizations",
-        "jp": "関連コミュニティと組織"
-      },
-      "links": [
-        {
-          "id": "example-community-1",
-          "name": "示例社区",
-          "url": "https://community.example.com",
-          "avatar": "/assets/avatar.jpg",
-          "description": {
-            "zh": "一个很棒的技术社区",
-            "en": "An awesome tech community",
-            "jp": "素晴らしい技術コミュニティ"
-          },
-          "tags": ["community", "tech"]
-        }
-      ]
-    },
-    {
-      "id": "resources",
-      "name": {
-        "zh": "资源",
-        "en": "Resources",
-        "jp": "リソース"
-      },
-      "description": {
-        "zh": "有用的工具和资源",
-        "en": "Useful tools and resources",
-        "jp": "便利なツールとリソース"
-      },
-      "links": [
-        {
-          "id": "example-resource-1",
-          "name": "示例工具",
-          "url": "https://tool.example.com",
-          "avatar": "/assets/avatar.jpg",
-          "description": {
-            "zh": "一个实用的在线工具",
-            "en": "A practical online tool",
-            "jp": "実用的なオンラインツール"
-          },
-          "tags": ["tool", "practical"]
+          "tags": ["blog"]
         }
       ]
     }
@@ -135,6 +69,6 @@
     "showTags": true,
     "showDescription": true,
     "showAvatar": true,
-    "defaultAvatar": "/assets/avatar.jpg"
+    "defaultAvatar": "/assets/noface.jpg"
   }
 }

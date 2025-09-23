@@ -1,14 +1,14 @@
 {
-  "title": "律影映幻",
-  "description": "律影映幻的个人主页",
-  "keywords": "律影映幻,OLC,BAKAOLC,Ritsukage,Utsumabo,Ritsukage Utsumabo,小律影",
-  "author": "OLC",
-  "url": "https://ritsukage.com/",
-  "image": "/assets/avatar.png",
+  "title": "绫沫Yokina",
+  "description": "绫沫猫猫冲",
+  "keywords": "绫沫Yokina,yokinaneko,yokinanya,綾沫Yokina,绫沫,綾沫,YukinomiyaYokina",
+  "author": "yokinanya",
+  "url": "https://home.yokina.moe",
+  "image": "/assets/avatar.jpg",
   "themeColor": {
     "light": "#ffffff",
     "dark": "#1e293b"
   },
   "favicon": "/favicon.ico",
-  "appleTouchIcon": "/assets/avatar.png"
+  "appleTouchIcon": "/assets/avatar.jpg"
 }

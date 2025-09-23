@@ -23,7 +23,7 @@
 
       <button v-for="tag in sortedNormalTags" :key="tag.id" class="tag-button"
         :class="{ 'active': selectedTag === tag.id }" @click="selectTag(tag.id)" :style="{
-          '--tag-color': tag.color || '#8b5cf6',
+          '--tag-color': tag.color || '#314268',
           '--tag-hover-color': tag.color ? `${tag.color}20` : '#8b5cf620'
         }">
         <div class="tag-left">
@@ -236,7 +236,7 @@ const selectTag = (id: string): void => {
 }
 
 .tag-button.active {
-  background-color: var(--tag-color, #8b5cf6);
+  background-color: var(--tag-color, #314268);
   color: white;
   box-shadow: 0 2px 6px rgba(0, 0, 0, 0.2);
 }

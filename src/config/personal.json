@@ -1,47 +1,77 @@
 {
-  "avatar": "/assets/avatar.png",
+  "avatar": "/assets/avatar.jpg",
   "name": {
-    "en": "OLC",
-    "zh": "OLC",
-    "jp": "OLC"
+    "en": "Yukinomiya Yokina",
+    "zh": "绫沫Yokina",
+    "jp": "綾沫Yokina"
   },
   "description": [
     {
-      "en": "A person who is bored and likes to doodle",
-      "zh": "一个无聊喜欢摸鱼的人",
-      "jp": "暇で落書きが好きな人"
-    },
-    {
-      "en": "",
-      "zh": "",
-      "jp": ""
-    },
-    {
-      "en": "⚠️ TEMPLATE - Please modify this information to your own",
-      "zh": "⚠️ 模板 - 请修改为您自己的信息",
-      "jp": "⚠️ テンプレート - ご自身の情報に変更してください"
+      "en": "Ciallo～(∠・ω< )⌒☆",
+      "zh": "Ciallo～(∠・ω< )⌒☆",
+      "jp": "Ciallo～(∠・ω< )⌒☆"
     }
   ],
   "links": [
+    {
+      "name": {
+        "en": "Blog",
+        "zh": "博客",
+        "jp": "ブログ"
+      },
+      "url": "https://blog.yokina.moe",
+      "icon": "blog",
+      "color": "#304166"
+    },
+    {
+      "name": {
+        "en": "Bilibili",
+        "zh": "Bilibili",
+        "jp": "Bilibili"
+      },
+      "url": "https://go.yokina.moe/bilibili",
+      "icon": "bilibili",
+      "color": "#00a0d8"
+    },
+    {
+      "name": {
+        "en": "Youtube",
+        "zh": "Youtube",
+        "jp": "Youtube"
+      },
+      "url": "https://go.yokina.moe/youtube",
+      "icon": "youtube",
+      "color": "#ff0000"
+    },
     {
       "name": {
         "en": "GitHub",
         "zh": "GitHub",
         "jp": "GitHub"
       },
-      "url": "https://github.com/BAKAOLC",
+      "url": "https://github.com/yokinanya",
       "icon": "github",
       "color": "#333"
     },
     {
       "name": {
-        "en": "X (Twitter)",
+        "en": "X",
         "zh": "X",
         "jp": "X"
       },
-      "url": "https://x.com/BAKAOLC",
+      "url": "https://x.com/yokina204207",
       "icon": "twitter",
       "color": "#1da1f2"
+    },
+    {
+      "name": {
+        "en": "Discord",
+        "zh": "Discord",
+        "jp": "Discord"
+      },
+      "url": "https://go.yokina.moe/discord",
+      "icon": "discord",
+      "color": "#5865f2"
     },
     {
       "name": {
@@ -49,9 +79,19 @@
         "zh": "邮箱",
         "jp": "メール"
       },
-      "url": "mailto:utsumabo@ritsukage.com",
+      "url": "mailto:yokinanya@ruau.top",
       "icon": "envelope",
       "color": "#ea4335"
+    },
+    {
+      "name": {
+        "en": "Askbox",
+        "zh": "提问箱",
+        "jp": "質問箱"
+      },
+      "url": "https://go.yokina.moe/askbox",
+      "icon": "paper-plane",
+      "color": "#ef9595"
     }
   ],
   "backgroundImages": []

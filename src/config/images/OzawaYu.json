@@ -1,0 +1,22 @@
+{
+  "id": "illust-qqman",
+  "name": {
+    "en": "Untitled",
+    "zh": "未命名",
+    "jp": "無題"
+  },
+  "description": {
+    "en": "This is the commissioned artwork ordered by the original Ozawa Yuu",
+    "zh": "这是原本的小沢幽约的稿件",
+    "jp": "これは元々の小沢幽（元VTuberの担当者）が依頼した原稿です。"
+  },
+  "artist": {
+    "en": "Kapyuwenumauma",
+    "zh": "りしゃん",
+    "jp": "りしゃん"
+  },
+  "src": "/assets/category/OzawaYu/日本画师插图.png",
+  "tags": ["OzawaYu", "commission"],
+  "characters": ["OzawaYu"],
+  "date": "2023-02-24"
+}

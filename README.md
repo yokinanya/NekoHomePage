@@ -7,7 +7,7 @@
 **模板中的示例素材（图片、头像、个人信息等）仅供演示使用，具有版权保护。使用本模板时，您必须：**
 
 1. **替换所有示例图片** - `public/assets/` 目录下的所有图片文件
-2. **更换头像文件** - `public/assets/avatar.png`
+2. **更换头像文件** - `public/assets/avatar.jpg`
 3. **修改个人信息** - `src/config/personal.json` 中的所有信息
 4. **更新角色配置** - `src/config/characters.json` 中的角色信息
 5. **替换 FontAwesome Kit** - `index.html` 中的 FontAwesome 脚本链接
@@ -56,13 +56,13 @@ npm install
      "keywords": "关键词1,关键词2,关键词3",
      "author": "您的名称",
      "url": "https://yoursite.com/",
-     "image": "/assets/avatar.png",
+     "image": "/assets/avatar.jpg",
      "themeColor": {
        "light": "#ffffff",
        "dark": "#1e293b"
      },
      "favicon": "/favicon.ico",
-     "appleTouchIcon": "/assets/avatar.png"
+     "appleTouchIcon": "/assets/avatar.jpg"
    }
    ```
    
@@ -503,7 +503,7 @@ npm run build
 ### 示例素材版权
 **重要**：模板中包含的示例素材（包括但不限于）：
 - 示例图片 (`public/assets/category/` 目录下的图片)
-- 头像文件 (`public/assets/avatar.png`)
+- 头像文件 (`public/assets/avatar.jpg`)
 - 角色设计和相关艺术作品
 
 **版权信息：**

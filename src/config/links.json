@@ -54,31 +54,25 @@
           "id": "example-friend-1",
           "name": "示例朋友1",
           "url": "https://example.com",
-          "avatar": "/assets/avatar.png",
+          "avatar": "/assets/avatar.jpg",
           "description": {
             "zh": "这是一个示例友链描述",
             "en": "This is an example friend link description",
             "jp": "これは友達リンクの説明例です"
           },
-          "tags": [
-            "tech",
-            "blog"
-          ]
+          "tags": ["tech", "blog"]
         },
         {
           "id": "example-friend-2",
           "name": "示例朋友2",
           "url": "https://example2.com",
-          "avatar": "/assets/avatar.png",
+          "avatar": "/assets/avatar.jpg",
           "description": {
             "zh": "另一个示例友链",
             "en": "Another example friend link",
             "jp": "もう一つの友達リンクの例"
           },
-          "tags": [
-            "design",
-            "creative"
-          ]
+          "tags": ["design", "creative"]
         }
       ]
     },
@@ -99,16 +93,13 @@
           "id": "example-community-1",
           "name": "示例社区",
           "url": "https://community.example.com",
-          "avatar": "/assets/avatar.png",
+          "avatar": "/assets/avatar.jpg",
           "description": {
             "zh": "一个很棒的技术社区",
             "en": "An awesome tech community",
             "jp": "素晴らしい技術コミュニティ"
           },
-          "tags": [
-            "community",
-            "tech"
-          ]
+          "tags": ["community", "tech"]
         }
       ]
     },
@@ -129,16 +120,13 @@
           "id": "example-resource-1",
           "name": "示例工具",
           "url": "https://tool.example.com",
-          "avatar": "/assets/avatar.png",
+          "avatar": "/assets/avatar.jpg",
           "description": {
             "zh": "一个实用的在线工具",
             "en": "A practical online tool",
             "jp": "実用的なオンラインツール"
           },
-          "tags": [
-            "tool",
-            "practical"
-          ]
+          "tags": ["tool", "practical"]
         }
       ]
     }
@@ -147,6 +135,6 @@
     "showTags": true,
     "showDescription": true,
     "showAvatar": true,
-    "defaultAvatar": "/assets/avatar.png"
+    "defaultAvatar": "/assets/avatar.jpg"
   }
 }
